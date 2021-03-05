@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Ames Housing Data and Kaggle Challenge
 
 
-### Objectives:
+## Objectives:
 - Predicting the sales price for each house in Ames Housing Data by using linear regression. This also part of Kaggle Challenge in [DSI-US-6 Regression Challenge](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge)
 
 ### Data Source
@@ -44,10 +44,10 @@
 
 
 
-### Conclusion
+## Conclusion
 
 
-**Top three features that make the house get a better price are:
+Top three features that make the house get a better price are:
 
 1. Size of the Ground living area
     * every one square feet step up, the price increase about 24,633 US dollar 
@@ -60,4 +60,4 @@
 3. Size of basement area
     * every one square feet step up, the price increase about 14,928 US dollar
     
-### A house agency staff should focus on house that has big groud living and basement area and also good material quality then they get high commision. 
+#### House agency staffs should focus on house that has big groud living and basement area and also good material quality then they get high commision. 
