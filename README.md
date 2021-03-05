@@ -11,13 +11,8 @@
 ## The Workflow Process
 
 ### 0. Define problem
-**Problem Statement**
-- Is it clear what the student plans to do?
-- What type of model will be developed?
-- How will success be evaluated?
-- Is the scope of the project appropriate?
-- Is it clear who cares about this or why this is important to investigate?
-- Does the student consider the audience and the primary and secondary stakeholders?
+- What are the properties of house that make the house get the good selling price? such as size of area, car area, number of Bedroom etc. 
+- The purpose of this study is a guideline for house agency staffs to find the high price house and get more commission.
 
 ### 1. Data Preparation
 - Load data dictionary from 'http://jse.amstat.org/v19n3/decock/DataDocumentation.txt'
@@ -48,25 +43,21 @@
 ### 7. Get prediction result from X_test and run Kaggle Challenge
 
 
-**Evaluation and Conceptual Understanding**
-- Does the student accurately identify and explain the baseline score?
-- Does the student select and use metrics relevant to the problem objective?
-- Is more than one metric utilized in order to better assess performance?
-- Does the student interpret the results of their model for purposes of inference?
-- Is domain knowledge demonstrated when interpreting results?
-- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
-
-**Conclusion and Recommendations**
-- Does the student provide appropriate context to connect individual steps back to the overall project?
-- Is it clear how the final recommendations were reached?
-- Are the conclusions/recommendations clearly stated?
-- Does the conclusion answer the original problem statement?
-- Does the student address how findings of this research can be applied for the benefit of stakeholders?
-- Are future steps to move the project forward identified?
-
 
 ### Conclusion
 
-	States policy make a significant change in participation rate. 
-	All students must check States policy before taking a Test.
 
+**Top three features that make the house get a better price are:
+
+1. Size of the Ground living area
+    * every one square feet step up, the price increase about 24,633 US dollar 
+
+
+2. Rates of the overall material quality
+    * every one rate step up, the price increase about 18,854 US dollar
+
+
+3. Size of basement area
+    * every one square feet step up, the price increase about 14,928 US dollar
+    
+### A house agency staff should focus on house that has big groud living and basement area and also good material quality then they get high commision. 
