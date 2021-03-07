@@ -18,7 +18,7 @@
 - Load data dictionary from 'http://jse.amstat.org/v19n3/decock/DataDocumentation.txt'
 - Mapping column name from data dict and Data source
 - Replace the null values by proper values based on data dict type [ numerical or category ]
-- Convert the category values in Ordinal cols to be the scale discreate values
+- Convert the category values in Ordinal cols to be the scale discrete values
 
 ### 2. EDA and Feature Engineering
 - Encode the category cols by using OneHotEncoder
