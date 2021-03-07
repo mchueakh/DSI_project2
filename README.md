@@ -24,7 +24,7 @@
 - Encode the category cols by using OneHotEncoder
 - normalization by using StandardScaler
 
-### 3. Get pre-predictos from correlation between features and target 
+### 3. Get pre-predictors from correlation between features and target 
 - Get Cols which have the high correlation with target (SalePrice)
 
 ### 4. First Liner Regression Model 
